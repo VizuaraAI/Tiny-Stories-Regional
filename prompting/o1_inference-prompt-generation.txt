@@ -1,0 +1,162 @@
+LIST OF PAIR OF THEMES
+
+1. Adventure or Fantasy
+2. Imagination or Creativity
+3. Curiosity or Discovery
+4. Mystery or Surprise 
+5. Playfulness or Learning
+6. Family or Friends/Friendship
+7. Kindness or Happiness 
+8. Helping or Sharing
+9. Courage or Perseverance
+10. Nature or Animals 
+
+----------------------------------------
+
+1
+
+Adventure or Fantasy
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+(suitable beginning) Deep in the heart of the forest, a secret was waiting to be uncovered
+(alternate suitable beginning) Once upon a time, in a land far away
+Similarly generate 100 such beginnings 
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. 
+
+----------------------------------------
+
+2 
+
+Imagination or Creativity
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+In her colorful dreams, the little artist painted worlds beyond imagination
+As the boy sketched his ideas, they sprang to life in the most unexpected ways.
+Similarly generate EXACTLY 100 such beginnings 
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. 
+
+----------------------------------------
+
+3
+
+Curiosity or Discovery
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+Peeking through the keyhole, he discovered a secret that would change everything
+With a magnifying glass in hand, she explored the garden, finding tiny wonders
+Similarly generate 100 such beginnings 
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. 
+
+----------------------------------------
+
+4
+
+Mystery or Surprise 
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+On a quiet evening, a strange letter arrived with no sender's name
+The box appeared on the doorstep, filled with items that held a surprising tale
+Similarly generate 100 such beginnings 
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. Remember 100 per language! 
+
+----------------------------------------
+
+5
+
+Playfulness or Learning
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+As the children played in the meadow, they discovered lessons hidden in nature
+With every giggle, the playful puppets taught valuable life lessons
+Similarly generate 100 such beginnings 
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. REMEMBER 100 per language! 
+
+----------------------------------------
+
+6 
+
+Family or Friends/Friendship 
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+In the warmth of the family kitchen, stories and laughter filled the air
+The friends built a treehouse that became their special place to share adventures
+Similarly generate 100 such beginnings 
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. REMEMBER 100 per language! 
+
+----------------------------------------
+
+7
+
+Kindness or Happiness 
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+With a simple act of kindness, the young girl brightened everyone's day
+The boy’s cheerful laughter spread joy throughout the neighborhood
+Similarly generate 100 such beginnings 
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. REMEMBER 100 per language! 
+
+----------------------------------------
+
+8
+
+Helping or Sharing
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+When the storm hit, neighbors came together to help each other
+The boy shared his toys, teaching everyone the joy of giving
+Similarly generate 100 such beginnings 
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. REMEMBER 100 per language! 
+
+----------------------------------------
+
+9
+
+Courage or Perseverance
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+With trembling hands, he faced his fears and stepped onto the stage
+Though the mountain was steep, her perseverance led her to the top
+Similarly generate 100 such beginnings 
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. REMEMBER 100 per language! 
+
+----------------------------------------
+
+10
+
+Nature or Animals 
+
+Generate EXACTLY 100 beginnings of short stories suitable for 5-7 year old children using either of or both the themes in the pair of themes above. Do not always include the pairs explicitly but integrate their meanings into the beginnings. 
+
+For example: 
+In the heart of the jungle, the animals prepared for the annual festival
+The little girl befriended a squirrel who showed her the wonders of the forest
+Similarly generate 100 such beginnings. If required use only COMMON animal names.
+
+Importantly keep the beginnings SIMPLE, without complex details or words but also engaging. Keep in mind the target demographic of 5-7 year old children. Remember to give equal importance to both the themes! Give the output as 4 a non numbered code blocks, one with English and rest three with Hindi, Marathi and Bengali EQUIVALENTs of EACH of the English phrases. REMEMBER 100 per language! 

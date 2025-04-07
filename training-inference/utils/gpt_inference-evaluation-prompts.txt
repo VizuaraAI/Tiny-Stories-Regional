@@ -1,0 +1,15 @@
+################### RATE ONE STORY ################### 
+
+The given {language} short story is for 5-7-year-old children. Keeping in mind the target demographic, rate the story on a scale of 1-10 for context awareness, completeness, grammar, fluency, and creativity. Evaluate context awareness by strictly assessing how well the storys middle and end align with the prompt "{prompt}". Also, provide an overall rating on a scale of 1-10.
+
+Only return a JSON dictionary in the following format: 
+{
+    "context awareness": "your_context-awareness_score",
+    "completeness": "your_completeness_score",
+    "grammar": "your_grammar_score",
+    "fluency": "your_fluency_score",
+    "creativity": "your_creativity_score",
+    "overall": "your_overall_rating"
+}
+
+######################################################

@@ -1,0 +1,11 @@
+# General Install
+- transformers, datasets, accelerate, h5py
+pip install -r requirements.txt
+
+
+# For IndicTrans (pip error expected, not to worry)
+- Indic Trans not used 
+!git clone https://github.com/VarunGumma/IndicTransToolkit
+%cd ~/Translation/IndicTransToolkit
+%pip install -r requirements.txt --quiet
+%cd ~/Translation

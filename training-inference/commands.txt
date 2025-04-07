@@ -1,0 +1,34 @@
+############ SYSTEM ##############
+
+Install dependencies: pip install torch numpy transformers datasets tiktoken wandb tqdm sentencepiece
+Clear HF cache: rm -rf ~/.cache/huggingface
+
+CPU usage: htop
+RAM usage: free -h
+
+##################################
+
+
+############ TRAINING ############
+
+GPU Training/Eval: 
+> torchrun --standalone --nproc_per_node=6 train.py config.py
+> python train.py config.py 
+> chmod +x automate-training.sh
+  ./automate-training.sh
+
+CPU Training/Eval: 
+> python train.py config.py --device=cpu --compile=False 
+
+#################################
+
+
+############ TESTING ###########
+
+Testing:
+> python sample.py config.py --start=FILE:prompt-test.txt
+> python sample.py config.py --device=cpu --compile=False --start=FILE:prompt-test.txt
+> chmod +x automate-sample.sh
+  ./automate-sample.sh
+
+#################################
