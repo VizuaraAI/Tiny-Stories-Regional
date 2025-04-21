@@ -4,7 +4,7 @@
   <i>A framework for development of Small Language Models for Indian regional languages, serving both as a practical alternative to LLMs and as a foundation for comparative analysis of tokenization strategies, machine translation performance, and linguistic complexity</i>
   <a href="https://vizuara.ai/"> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a1a36ff-6d9a-4ee7-9494-3ae38adfe134_1920x600.png" alt="Vizuara Logo" style="width:90%;"> </a>
 
-  [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg?style=flat)](https://arxiv.org/pdf/2504.07989)
+  [![arXiv](https://img.shields.io/badge/arXiv-2504.07989-b31b1b.svg?style=flat)](https://arxiv.org/pdf/2504.07989)
   [![Huggingfaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/TinyStories-Regional)
 
   [![nirvan](https://img.shields.io/badge/nirvan-black?logo=github&logoColor=white&labelColor=black&color=black&style=flat)](https://github.com/nirvan840)
