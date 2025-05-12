@@ -32,9 +32,11 @@
 > * <i> The first version of our TinyStories Regional paper is now on arXiv and is currently being refined :) </i>
 > * <i> Some references to the paper below currently might not be accessible </i> 
 
+**_Clone_**
 ```sh
 git clone https://github.com/nirvan840/Vizuara-TinyStories-Regional.git
 ```
+**_Requirements_**
 ```sh
 pip install g4f[all] aiolimter transformers datasets huggingface_hub sentencepiece tiktoken wandb tqdm torch numpy 
 ```
