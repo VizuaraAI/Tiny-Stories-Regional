@@ -43,7 +43,7 @@ pip install g4f[all] aiolimter transformers datasets huggingface_hub sentencepie
 
 ---
 
-![Adobe Express - file](https://github.com/user-attachments/assets/95e8451f-8728-4f9f-b705-34c356d5aaa8)
+![process-figure-GITHUB](https://github.com/user-attachments/assets/79632fd5-bb56-4b92-bdfc-91167f459701)
 
 ---
 
