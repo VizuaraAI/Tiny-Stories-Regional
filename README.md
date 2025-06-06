@@ -364,7 +364,7 @@ Only return a JSON dictionary in the following format:
 | 1024        | 7     | 153.00      | 0.557     | 7.567   | 7.639         | 7.740       | 8.409   | 8.832    | 8.037   |
 
 ### Key Findings 
-- SLMs with as few as  `53M parameters` can `consistently` generate coherent, grammatical stories in Indian languages
+- SLMs with as few as  `53M parameters` can `consistently` generate well-defined stories in Indian languages
 - Increasing model size from 4.5M to 153M parameters consistently improves performance across all languages
 - Grammar scores show the highest performance, while context awareness remains the most challenging
 - Smaller (5M) models can generate coherent stories, albeit with poor contextual awareness
