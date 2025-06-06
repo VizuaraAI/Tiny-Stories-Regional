@@ -660,12 +660,13 @@ Now they will come to play every day, tell new stories. Their games in the calm 
 If you use Vizuara's TinyStories Regional in your research, please cite us using the following BibText template: 
 
 ```text
-@misc{TinyStories-Regional,
-  author = {Nirvan Patil, Malhar Inamdar, Agnivo Gosai, Raj Dandekar},
-  title = {TinyStories Regional: A Framework for Developing Regional SLMs as Proxies for Comparative Analysis},
-  year = {2025},
-  howpublished = {\url{https://github.com/nirvan840/Vizuara-TinyStories-Regional}},
-  note = {Research conducted as part of Vizuara AI Labs}
+@misc{patil2025regionaltinystoriesusing,
+      title={Regional Tiny Stories: Using Small Models to Compare Language Learning and Tokenizer Performance}, 
+      author={Nirvan Patil and Malhar Abhay Inamdar and Agnivo Gosai and Guruprasad Pathak and Anish Joshi and Aryan Sagavekar and Anish Joshirao and Raj Dandekar and Rajat Dandekar and Sreedath Panat},
+      year={2025},
+      eprint={2504.07989},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.07989}, 
 }
-
 ```
