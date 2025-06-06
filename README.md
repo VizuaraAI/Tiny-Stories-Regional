@@ -68,7 +68,6 @@ pip install g4f[all] aiolimter transformers datasets huggingface_hub sentencepie
   - #### [✅ A Fitting Use Case](#a-fitting-use-case)
 - ### 💰 Costs
   - #### [⏱️ Training Time and Costs](#training-time-and-costs)
-  - #### [🔄 Replicating the Project](#replicating-the-project)
 
 ---
 
