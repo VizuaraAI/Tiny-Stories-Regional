@@ -16,7 +16,7 @@
 <br>
 
 > [!IMPORTANT]
-> * <i> `✨ Below, we present a simple guide to creating your own SLM, along with key findings of our research.✨`</i>
+> * <i> `✨ We present a simple guide to creating your own SLM, along with key findings of our research.✨`</i>
 > * <i> This repository provides resources and code for our TinyStories-Regional framework, which extends <br> the TinyStories approach ([Eldan & Li, 2023](https://arxiv.org/abs/2305.07759)) to three major Indian languages: `Hindi, Marathi, and Bangla` </i>
 > * <i> Our framework enables `training and inference` with Small Language Models with `5-150M` parameters, used as proxies for various comparative analyses. </i>
 
