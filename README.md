@@ -18,7 +18,7 @@
 > [!IMPORTANT]
 > * <i> `✨ We present a simple guide to creating your own SLM, along with key findings of our research.✨`</i>
 > * <i> This repository provides resources and code for our TinyStories-Regional framework, which extends <br> the TinyStories approach ([Eldan & Li, 2023](https://arxiv.org/abs/2305.07759)) to three major Indian languages: `Hindi, Marathi, and Bangla` </i>
-> * <i> Our framework enables `training and inference` with Small Language Models with `5-150M` parameters, used as proxies for various comparative analyses. </i>
+> * <i> Our framework enables `training and inference` of Small Language Models with `5-150M` parameters. SLMs are then used as proxies for various comparative analyses. </i>
 
 
 > [!NOTE]
@@ -364,7 +364,7 @@ Only return a JSON dictionary in the following format:
 | 1024        | 7     | 153.00      | 0.557     | 7.567   | 7.639         | 7.740       | 8.409   | 8.832    | 8.037   |
 
 ### Key Findings 
-- SLMs with only `53M parameters` can `consistently` generate coherent, grammatical stories in Indian languages
+- SLMs with as few as  `53M parameters` can `consistently` generate coherent, grammatical stories in Indian languages
 - Increasing model size from 4.5M to 153M parameters consistently improves performance across all languages
 - Grammar scores show the highest performance, while context awareness remains the most challenging
 - Smaller (5M) models can generate coherent stories, albeit with poor contextual awareness
