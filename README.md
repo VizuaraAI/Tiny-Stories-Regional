@@ -641,16 +641,36 @@ Now they will come to play every day, tell new stories. Their games in the calm 
 
 > [!IMPORTANT]
 > * `Pipeline Overview`:
->    - Prompt Generation (free 🎁)
->    - Data Generation (free using G4F 🎁)
->    - Training a SLM (<20 USD using TensorDock 💚)
->    - Inference (CPU inference supported ~free 🎁)
+>   - Prompt Generation (free 🎁)
+>   - Data Generation (free using G4F 🎁)
+>   - Training a SLM (<20 USD using TensorDock 💚)
+>   - Inference (CPU inference supported ~free 🎁)
 > * `Total Cost` to generate your custom Regional-SLM `~15 USD` :)
 > * `First Time Setup Effort`:
->    - Assuming intermediate competancy with DL and LLMs
->    - `2-6 hours`; Time is money, after all :)
+>   - Assuming intermediate competancy with DL and LLMs
+>   - `2-6 hours`; Time is money, after all :)
 
-#### _Detailed breakdown soon!_
+## 📋 Training Regime
+> * _We utilise a **DDP** (Distributed Data Parallel) setup for multi-GPU training._
+> * _Each GPU randomly samples a batch from the training/testing data._
+> * _**Total training time is only affected by the total combined VRAM** (across all GPUs)._
+- **Training Epochs**: 5000 (until convergence)
+- **Testing Epochs**: 50  
+- **Testing Frequency**: Every 200 epochs  
+- **Logging Frequency**: Every 2 epochs  
+
+<br>
+
+## ⚙️ Hardware Details & Cost
+
+| Model Size | Training Time (1x H100 80GB) | Cost ($2.0/hr) |
+|------------|----------------|----------------|
+| 5M         | ~6 hr          | ~12 USD        |
+| 54M        | ~8 hr          | ~16 USD        |
+| 157M       | ~16 hr         | ~32 USD        |
+
+* Using **2×H100** doubles both VRAM and hourly cost **but halves the training time**, keeping the total cost unchanged.
+* As training is **VRAM-bound** rather than **FLOP or architecture-dependent**, the **RTX A6000** offers the **best cost efficiency per GB of VRAM**.
 
 ---
 
