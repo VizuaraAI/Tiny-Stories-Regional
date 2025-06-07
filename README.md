@@ -651,9 +651,9 @@ Now they will come to play every day, tell new stories. Their games in the calm 
 >   - `2-6 hours`; Time is money, after all :)
 
 ## 📋 Training Regime
-> * _We utilise a **DDP** (Distributed Data Parallel) setup for multi-GPU training._
+> * _We utilise a DDP (Distributed Data Parallel) setup for multi-GPU training._
 > * _Each GPU randomly samples a batch from the training/testing data._
-> * _**Total training time is only affected by the total combined VRAM** (across all GPUs)._
+> * _`Total training time is only affected by the total combined VRAM` (across all GPUs)._
 - **Training Epochs**: 5000 (until convergence)
 - **Testing Epochs**: 50  
 - **Testing Frequency**: Every 200 epochs  
