@@ -1,7 +1,8 @@
 <div align="center">
 
-  <h1> TinyStories Regional <img src="https://png.pngtree.com/png-vector/20220812/ourmid/pngtree-indian-flag-design-png-png-image_6108311.png" width="30"> </h1>
-  <i>A framework for development of Small Language Models for Indian regional languages, serving both as a practical alternative to LLMs and as a foundation for comparative analysis of tokenization strategies, machine translation performance, and linguistic complexity</i>
+  <h1> Regional-TinyStories (IJCNLP-AACL 25) <img src="https://png.pngtree.com/png-vector/20220812/ourmid/pngtree-indian-flag-design-png-png-image_6108311.png" width="30"> </h1>
+  <i>Regional-TinyStories: A Small Language Model Framework for Evaluating Language Learning, Tokenizers, and Datasets</i> 
+  
   <a href="https://vizuara.ai/"> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a1a36ff-6d9a-4ee7-9494-3ae38adfe134_1920x600.png" alt="Vizuara Logo" style="width:90%;"> </a>
 
   [![arXiv](https://img.shields.io/badge/arXiv-2504.07989-b31b1b.svg?style=flat)](https://arxiv.org/abs/2504.07989v1)
@@ -16,8 +17,8 @@
 <br>
 
 > [!IMPORTANT]
-> * <i> `✨ We present a simple guide to creating your own SLM, along with key findings of our research.✨`</i>
-> * <i> This repository provides resources and code for our TinyStories-Regional framework, which extends <br> the TinyStories approach ([Eldan & Li, 2023](https://arxiv.org/abs/2305.07759)) to three major Indian languages: `Hindi, Marathi, and Bangla` </i>
+> * <i> `✨ Accepted at IJCNLP-AACL (ACL Findings) 2025 ✨`</i> 
+> * <i> This repository provides resources and code and key results for our Regional-TinyStories framework, which extends <br> the TinyStories approach ([Eldan & Li, 2023](https://arxiv.org/abs/2305.07759)) to three major Indian languages: `Hindi, Marathi, and Bangla` </i>
 > * <i> Our framework enables `training and inference` of Small Language Models (SLMs) ranging from `5M to 150M` parameters, which are subsequently employed as proxies for a variety of comparative analyses </i>
 
 
