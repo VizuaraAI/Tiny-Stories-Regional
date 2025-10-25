@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1> Regional-TinyStories (IJCNLP-AACL 25) <img src="https://png.pngtree.com/png-vector/20220812/ourmid/pngtree-indian-flag-design-png-png-image_6108311.png" width="30"> </h1>
+  <h1> Regional-TinyStories (IJCNLP-AACL '25) <img src="https://png.pngtree.com/png-vector/20220812/ourmid/pngtree-indian-flag-design-png-png-image_6108311.png" width="30"> </h1>
   <i>Regional-TinyStories: A Small Language Model Framework for Evaluating Language Learning, Tokenizers, and Datasets</i> 
   
   <a href="https://vizuara.ai/"> <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a1a36ff-6d9a-4ee7-9494-3ae38adfe134_1920x600.png" alt="Vizuara Logo" style="width:90%;"> </a>
