@@ -18,7 +18,7 @@
 
 > [!IMPORTANT]
 > * <i> `✨ Accepted at IJCNLP-AACL (ACL Findings) 2025 ✨`</i> 
-> * <i> This repository provides resources and code and key results for our Regional-TinyStories framework, which extends <br> the TinyStories approach ([Eldan & Li, 2023](https://arxiv.org/abs/2305.07759)) to three major Indian languages: `Hindi, Marathi, and Bangla` </i>
+> * <i> This repository provides resources and code and key results for our Regional-TinyStories framework, which extends the TinyStories approach ([Eldan & Li, 2023](https://arxiv.org/abs/2305.07759)) to three major Indian languages: `Hindi, Marathi, and Bangla` </i>
 > * <i> Our framework enables `training and inference` of Small Language Models (SLMs) ranging from `5M to 150M` parameters, which are subsequently employed as proxies for a variety of comparative analyses </i>
 
 
