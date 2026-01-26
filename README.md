@@ -43,7 +43,8 @@ pip install g4f[all] aiolimter transformers datasets huggingface_hub sentencepie
 
 ---
 
-![process-figure-GITHUB](https://github.com/user-attachments/assets/79632fd5-bb56-4b92-bdfc-91167f459701)
+<!-- ![process-figure-GITHUB](https://github.com/user-attachments/assets/79632fd5-bb56-4b92-bdfc-91167f459701) -->
+<p align="center"> <img width="960" height="540" alt="process_figure" src="https://github.com/user-attachments/assets/6b62b812-5c00-4c30-a636-e5d07bc34ba2" /> </p>
 
 ---
 
